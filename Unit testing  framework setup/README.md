@@ -44,7 +44,6 @@ In order to execute the Truffle-test:
 7. For more details see the **Testing** portion in the [Truffle Docs](https://trufflesuite.com/docs/truffle/testing/testing-your-contracts.html)
 
 ### Remarks
-In a blockchain environment, a single mistake could cost you all of your funds - or even worse, your users' funds! This guide will help you develop robust applications by writing automated tests that verify your application behaves exactly as you intended.
 
 1. Truffle comes standard with an automated testing framework to make testing your contracts a breeze.
 2. This framework lets you write simple and manageable tests in two different ways:
